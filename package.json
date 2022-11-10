@@ -17,7 +17,7 @@
   "author": "Austin Barrett (Striped Purple)",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^4.1.4"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "brightness": "^3.0.0"
